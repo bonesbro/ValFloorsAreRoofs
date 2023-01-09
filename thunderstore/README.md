@@ -37,3 +37,6 @@ If you don't need custom pieces then you don't need to do anything; by default i
 
 # Source Code
 https://github.com/bonesbro/ValFloorsAreRoofs
+
+# Changelog
+2.0.1: No code change, just fixed the dependencies to add Jotunn.
