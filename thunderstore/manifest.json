@@ -1,0 +1,9 @@
+{
+  "name": "FloorsAreRoofs",
+  "version_number": "2.0.0",
+  "website_url": "https://github.com/bonesbro/ValFloorsAreRoofs",
+  "description": "This mod makes the wooden floor pieces provide shelter, just like thatched roofs.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.1901"
+  ]
+} 
