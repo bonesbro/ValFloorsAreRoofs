@@ -40,3 +40,4 @@ https://github.com/bonesbro/ValFloorsAreRoofs
 
 # Changelog
 2.0.1: No code change, just fixed the dependencies to add Jotunn.
+2.0.2: Add Jotunn as a BepInDependency to ensure that loading happens in the right order.

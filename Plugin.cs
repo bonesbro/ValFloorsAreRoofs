@@ -14,7 +14,7 @@ namespace FloorsAreRoofs
 	public class FloorsAreRoofsPlugin : BaseUnityPlugin
 	{
 		private const string PluginId = "bonesbro.val.floorsareroofs";
-		public const string Version = "2.0.1";
+		public const string Version = "2.0.2";
 		public const string ModName = "Floors Are Roofs";
 		private const string DefaultPrefabsConfigSetting = "wood_floor,wood_floor_1x1";
 		private const string DefaultHammersConfigSetting = "Hammer";
